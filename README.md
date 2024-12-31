@@ -7,7 +7,6 @@
 - [4.0 Key Features](#40-key-features)
 - [5.0 Known Issues & Future Updates](#50-known-issues--future-updates)
 - [6.0 License](#60-license)
-- [7.0 Credits](#70-credits)
 
 ---
 
@@ -62,18 +61,10 @@ The goal of this Hackathon was to predict whether a passenger was satisfied or n
 ## 5.0 Known Issues & Future Updates
 - **Potential Overfitting**: Large ensembles risk overfitting if not carefully tuned.  
 - **Resource Constraints**: Hyperparameter tuning can be memory-intensive in Colab.  
-- **Next Steps**: Investigate incremental learning approaches or Bayesian optimization for faster/broader search.
 
 ---
 
 ## 6.0 License
 This project is released under the [MIT License](./LICENSE). You can freely use, modify, and distribute it, subject to the license terms.
-
----
-
-## 7.0 Credits
-- **Team Sublime_Jin** for data analysis, feature engineering, and modeling.  
-- Hackathon organizers for dataset provision and competition framework.  
-- **Libraries**: NumPy, Pandas, Scikit-learn, TensorFlow, CatBoost, XGBoost, Optuna, imbalanced-learn.
 
 ---
