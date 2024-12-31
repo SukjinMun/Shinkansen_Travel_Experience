@@ -9,7 +9,6 @@
 - [6.0 License](#60-license)
 
 ---
-
 ## 1.0 About
 The goal of this Hackathon was to predict whether a passenger was satisfied or not, based on their **overall traveling experience** on the Shinkansen Bullet Train. The competition ran from **Aug 25, 2024, 7:00 PM – Aug 29, 2024, 7:00 PM**, with an allowed team size of 1–3 members.
 
@@ -17,6 +16,7 @@ The goal of this Hackathon was to predict whether a passenger was satisfied or n
 - Developed a **machine learning pipeline** to predict passenger satisfaction, **achieving 93.4% accuracy** and securing **24th place out of 76 teams**.  
 - Optimized performance using **feature engineering**, **hyperparameter tuning**, and **ensemble models** (Random Forest, CatBoost, Neural Networks).
 
+**Note:** Submission data and saved models are not uploaded here due to data ethics considerations.
 ---
 
 ## 2.0 Project Workflow Summary
