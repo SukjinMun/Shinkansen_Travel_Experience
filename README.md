@@ -50,11 +50,10 @@ The goal of this Hackathon was to predict whether a passenger was satisfied or n
 ---
 
 ## 4.0 Key Features
-- **Extensive EDA**: Pairplots, heatmaps, boxplots for data insights.  
-- **Robust Feature Selection**: Chi-Square, RFE, Permutation Importance.  
-- **Ensemble Methods**: CatBoost, Random Forest, XGBoost, Neural Networks, plus stacking.  
-- **Accurate & Efficient**: Achieved ~93.4% on test data.  
-- **Well-Documented**: Clear steps for data cleaning, modeling, and result generation.
+- **Extensive EDA: Pairplots, heatmaps, boxplots for data insights**
+- **Robust Feature Selection**: Chi-Square, RFE, Permutation Importance** 
+- **CatBoost, Random Forest, XGBoost, Neural Networks, plus stacking** 
+- **Achieved ~93.4% on test data**.  
 
 ---
 
